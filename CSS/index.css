@@ -37,7 +37,6 @@ a:focus {
 }
 
 .main {
-  max-width: 980px;
   margin-left: 2em;
   margin-right: 2em;
 }
@@ -105,5 +104,9 @@ a:focus {
 
    h1 {
       font-size: 22px;
+   }
+   .main {
+     margin-left: 0.5em;
+     margin-right: 2em;
    }
 }
