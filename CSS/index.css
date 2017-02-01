@@ -1,5 +1,5 @@
 body {
-  background-color: #292b36;
+  background-color: #002b36;
 }
 
 h1 {
@@ -27,9 +27,13 @@ a:link {
   color: white;
 }
 
-a:hover{
+a:hover {
   text-decoration: underline;
   border-bottom: 1px #fff solid;
+}
+
+a:focus {
+  text-decoration: none;
 }
 
 .main {
@@ -95,4 +99,11 @@ a:hover{
   50% {
     color: white;
   }
+}
+
+@media only screen and (max-width: 767px) {
+
+   h1 {
+      font-size: 22px;
+   }
 }
