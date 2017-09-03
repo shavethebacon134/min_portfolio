@@ -47,7 +47,7 @@ a:focus {
 }
 
 .img-responsive {
-  max-width: 700px;
+  max-width: 100%;
 }
 
 .blinking-cursor {
