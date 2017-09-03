@@ -46,6 +46,9 @@ a:focus {
   margin-top: 3em;
 }
 
+.img-responsive {
+  max-width: 700px;
+}
 
 .blinking-cursor {
   color: white;
