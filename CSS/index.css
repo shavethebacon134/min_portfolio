@@ -46,6 +46,10 @@ a:focus {
   margin-top: 3em;
 }
 
+.portfolio-item {
+  max-width: 80%;
+}
+
 .img-responsive {
   max-width: 100%;
 }
